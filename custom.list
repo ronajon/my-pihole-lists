@@ -1,1 +1,4 @@
-
+192.168.0.60 hassio.local
+192.168.0.70 teslamate.local
+192.168.0.20 proxmox.local
+192.168.0.9 ds920.local
