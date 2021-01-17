@@ -1,7 +1,5 @@
-192.168.0.60 hassio.local
 192.168.0.20 proxmox.local
 192.168.0.9 ds920.local
-192.168.0.102 teslamate.local
 192.168.0.120 emby.local
 192.168.0.100 grafana.local
 192.168.0.122 jackett.local
@@ -9,3 +7,5 @@
 192.168.0.124 radarr.local
 192.168.0.123 sonarr.local
 192.168.0.125 bazarr.local
+192.168.0.105 hassio.local
+192.168.0.107 teslamate.local
