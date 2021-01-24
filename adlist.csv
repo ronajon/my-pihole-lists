@@ -1,11 +1,11 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1598509010,1598509010,"Migrated from /etc/pihole/adlists.list",1611042431
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1598509010,1598509010,"Migrated from /etc/pihole/adlists.list",1611454207
 2,https://mirror1.malwaredomains.com/files/justdomains,1,1598509010,1598509010,"Migrated from /etc/pihole/adlists.list",
 3,http://sysctl.org/cameleon/hosts,1,1598509010,1598509010,"Migrated from /etc/pihole/adlists.list",1611042436
 4,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1598509010,1598509010,"Migrated from /etc/pihole/adlists.list",1611042438
 5,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1598509010,1598509010,"Migrated from /etc/pihole/adlists.list",1611042439
 6,https://hosts-file.net/ad_servers.txt,1,1598509010,1598509010,"Migrated from /etc/pihole/adlists.list",
-7,https://dbl.oisd.nl,1,1598509010,1598509010,"Migrated from /etc/pihole/adlists.list",1611042502
+7,https://dbl.oisd.nl,1,1598509010,1598509010,"Migrated from /etc/pihole/adlists.list",1611454283
 8,https://blocklist.site/app/dl/malware,1,1598509010,1598509010,"Migrated from /etc/pihole/adlists.list",1611042535
 9,https://blocklist.site/app/dl/tracking,1,1598509010,1598509010,"Migrated from /etc/pihole/adlists.list",1611042539
-10,https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist,1,1598509010,1598509010,"Migrated from /etc/pihole/adlists.list",1611042542
+10,https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist,1,1598509010,1598509010,"Migrated from /etc/pihole/adlists.list",1611454303
